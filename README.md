@@ -1,2 +1,2 @@
-# my-task
-tugas saya untuk pemula di bahasa indonesis
+# my-project
+dalam hal ini saya sebagai pemula 
